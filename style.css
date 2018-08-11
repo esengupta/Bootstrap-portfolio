@@ -1,0 +1,151 @@
+.boxname{
+  /* width: 300px;
+  height:80px; */
+  background-color: teal;
+  padding: 20px;
+  color:white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  /* margin-top: 30px;
+  margin-left: 140px; */
+}
+
+
+.floatleft{
+  float: left;
+}
+
+.floatright{
+  float: right;
+}
+
+
+li{
+  display: block;
+ 
+}
+
+ a {
+  color: gray !important;
+  } 
+
+  .bgimagesize{
+    width:1110px;
+    height:600px;
+    position: absolute;
+    margin-top: -4px;
+  
+  }
+
+  .myimage{
+    widows: 150px;
+    height:150px;
+    position: absolute;
+    z-index: 3;
+    margin-left: 20px;
+    margin-top:60px;
+    
+  }
+
+  .position{
+    position: absolute;
+    z-index: 0;
+  }
+
+  .aboutme{
+    /* position: absolute; */
+    z-index: 2;
+    /* color: teal; */
+    
+  }
+  .mainbody{ 
+    z-index: 1;
+    /* position: absolute; */
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #dddddd;
+    padding-right: 0px;
+    padding-top: 20px;
+  }
+ 
+  .footer .col-12{
+     border-top: 3px solid teal; 
+    margin-bottom: -70px;
+    /* padding-top: 40px; */
+    background-color:#666666;
+    padding-left: 05px;
+    color: #ebebeb;
+    
+  }
+  /* .footer .col-12{
+    color:white bold;
+    text-align: center;
+    background-color: #666666;
+    padding: 20px;
+    /* margin-top: 0;
+    height: 100%;
+
+  } */
+
+
+/* *{outline: 1px dotted black} */
+
+
+.third{
+  padding: 80px;
+  background:url("Assets/images/image1.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin-top: 1px;
+ 
+  
+}
+.path{
+  color: teal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.f{
+  background:#dddddd;
+  background-size: cover;
+  background-position: center;
+
+}
+
+  .white{
+    background-color: white;
+
+  }
+
+  
+
+  
+  
+  /* .boxnav{
+  width: 400px;
+  height: 20px;
+  margin-top: 80px;
+  margin-right: 0px;
+} */
+
+ /* .border{
+    width: 950px;
+  } */
+
+  /*#hr{
+  margin-top: -30px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right:-140px;
+  height: 2px;
+  display: block;
+  background-color:gray;
+}*/
+
+/*#hr1{
+  margin-top: -30px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+  margin-right:-140px;
+  height: 2px;
+  display: block;
+  background-color:gray;
+ 
+}*/
